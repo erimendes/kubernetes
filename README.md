@@ -1,4 +1,4 @@
-# kubernetes
+# kubernetes(k8s)
 ## O que precisa para KUBERNETES:
 Durante o curso, usaremos os seguintes softwares e ferramentas:
 
@@ -33,3 +33,9 @@ Você pode acessar o manual de instalação clicando aqui, é recomendado utiliz
 
 MacOS
 Você pode acessar o manual de instalação, é recomendado utilizar o Homebrew para instalar o kubectl, mas existem outras formas de instalção disponibilizadas na documentação.
+
+## Helm
+https://helm.sh/docs/intro/install/
+A melhor forma de instalar o helm é através do gerenciador de pacotes.
+Through Package Managers
+No ubuntu(apt)
